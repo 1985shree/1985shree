@@ -5,23 +5,23 @@ I am a scientist with a PhD in Physical Chemistry. I have experience in differen
 Things I'm doing at present:
 
 - 🔭 I’m currently working on Statistical and machine learning models.
-- 
+
 - 🌱 I’m currently learning ML methods and their capabilities with Scikit-Learn.
-- 
+
 - Programming Language: Python,  SQL, FORTRAN
-- 
+
 - Libraries and tools: NumPy, SciPy, Scikit-Learn, pandas, Matplotlib, Seaborn
-- 
+
 - Methodologies Statistical methods: Bootstrapping, Hypothesis testing. ML methods: Classification, Linear and multivariate regression, Parameter tuning
-- 
+
 - 👯 I’m looking to collaborate on ML projects on healthcare, business and spectroscopy.
-- 
+
 - 🤔 I’m looking for help with understanding in depth the working and performance of models.
-- 
-- 💬 Ask me about Spectroscopy
-- 
+
+- 💬 Ask me about Spectroscopy, Data processing, Data visualization
+
 - 📫 How to reach me: https://www.linkedin.com/in/shreetama-karmakar-9069a58a/
-- 
+
 - 😄 Pronouns: she/her
 
 -->
