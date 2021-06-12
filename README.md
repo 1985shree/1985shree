@@ -12,7 +12,7 @@ Things I'm doing at present:
 
 - Libraries and tools: NumPy, SciPy, Scikit-Learn, pandas, Matplotlib, Seaborn
 
-- Methodologies Statistical methods: Bootstrapping, Hypothesis testing. ML methods: Classification, Linear and multivariate regression, Parameter tuning
+- Methodologies: Statistical methods: Bootstrapping, Hypothesis testing. ML methods: Classification, Linear and multivariate regression, Parameter tuning
 
 - 👯 I’m looking to collaborate on ML projects on healthcare, business and spectroscopy.
 
