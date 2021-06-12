@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my github page! 👋
 
-<!--
-**1985shree/1985shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a scientist with a PhD in Physical Chemistry. I have experience in different spectroscopic methods, data processing and interpretation of the data with various models. I am enthusiastic about machine learning models and their application in science, business and healthcare. I am currently a postdoctoral researcher in the Deaprtment of Experimental Physics at the Freie Uniersity, Berlin. My domain expertise is ultrafast pump-probe spectroscopy. 
 
-Here are some ideas to get you started:
+Things I'm good at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Statistical and machine learning models.
+- 🌱 I’m currently learning ML methods and their capabilities with Scikit-Learn.
+- Programming Language Python,  SQL, FORTRAN
+- Libraries and tools: NumPy, SciPy, Scikit-Learn, pandas, Matplotlib, Seaborn
+- Methodologies Statistical methods: Bootstrapping, Hypothesis testing. ML methods: Classification, Linear and multivariate regression, Parameter tuning
+- 👯 I’m looking to collaborate on ML projects on healthcare, business and spectroscopy.
+- 🤔 I’m looking for help with understanding in depth the working and performance of models.
+- 💬 Ask me about Spectroscopy
+- 📫 How to reach me: https://www.linkedin.com/in/shreetama-karmakar-9069a58a/
+- 😄 Pronouns: she/her
+
 -->
