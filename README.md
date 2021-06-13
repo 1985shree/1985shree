@@ -20,7 +20,7 @@ Things I'm doing at present:
 
 - 💬 Ask me about Spectroscopy, Data processing, Data visualization
 
-- 📫 How to reach me: https://www.linkedin.com/in/shreetama-karmakar-9069a58a/
+- 📫 How to reach me: Linkedin : https://www.linkedin.com/in/shreetama-karmakar-9069a58a/
 
 - 😄 Pronouns: she/her
 
