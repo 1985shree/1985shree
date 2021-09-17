@@ -4,9 +4,9 @@ I am a scientist with a PhD in Physical Chemistry. I have experience in differen
 
 Things I'm doing at present:
 
-- 🔭 I’m currently working on Statistical and machine learning models.
+- 🔭 I’m currently working on machine learning models.
 
-- 🌱 I’m currently learning ML methods and their capabilities with Scikit-Learn.
+- 🌱 I’m currently learning ML engineering.
 
 - Programming Language: Python,  SQL, FORTRAN
 
