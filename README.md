@@ -6,7 +6,7 @@ Things I'm doing at present:
 
 - 🔭 I’m currently working on machine learning models.
 
-- 🌱 I’m currently learning ML engineering.
+- 🌱 I’m currently learning ML engineering and SQL.
 
 - Programming Language: Python,  SQL, FORTRAN
 
