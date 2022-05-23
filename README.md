@@ -16,7 +16,7 @@ Things I'm doing at present:
 
 - 👯 I’m looking to collaborate on ML projects on healthcare, business and climate.
 
-- 🤔 I’m looking for help with understanding in depth the working and performance of models.
+- 🤔 I’m looking for help with understanding in-depth the working and performance of models, infrastructure building and front-end.
 
 - 💬 Ask me about Spectroscopy, Data processing, Data visualization
 
@@ -29,6 +29,5 @@ Things I'm doing at present:
 🧰 Toolbox
 
 ---
-<img src="https://worldvectorlogo.com/logo/python-5.svg" alt="Python Logo" width="50" height="50"/>
+<img width='500' height='230' src= https://user-images.githubusercontent.com/74716850/169829733-02a7cfb4-9ad7-422f-be47-5f41fa765824.png> 
 
--->
