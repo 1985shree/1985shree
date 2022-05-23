@@ -1,14 +1,13 @@
 ### Welcome to my github page! 👋
 
-I am a scientist with a PhD in Physical Chemistry and a passion in machine learning and automation. I have experience in programming languages (python, SQL), spectroscopic methods, data processing and interpretation of the data with various models. I am enthusiastic about ML/DL and their application in science, business and healthcare. I am currently a postdoctoral researcher in the Deaprtment of Experimental Physics at the Freie Uniersity, Berlin. My domain expertise is ultrafast pump-probe spectroscopy. 
+I am a scientist with a PhD in Physical Chemistry and a passion in machine learning and automation. I have experience in programming, data analytics, spectroscopic methods, and interpretation of the data with various models. I am enthusiastic about ML/DL and their application in science, business and healthcare. I am currently a postdoctoral researcher in the Deaprtment of Experimental Physics at the Freie Uniersity, Berlin. 
 
-Things I'm doing at present:
+Things I'm doing at present in addition to my regular research work:
 
-- 🔭 I’m currently working on NLP.
+- 🔭 I’m currently working on NLP and recommendation system.
 
-- 🌱 I’m currently learning ML engineering and SQL.
+- 🌱 I’m currently learning data engineering and MLOps engineering.
 
-- Programming Language: Python,  SQL
 
 - Libraries and tools: NumPy, SciPy, Scikit-Learn, TensorFlow, pandas, Matplotlib, Seaborn
 
