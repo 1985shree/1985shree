@@ -14,7 +14,7 @@ Things I've done in the past in addition to my regular work in building machine-
 
 - Methodologies: Statistical methods: Bootstrapping, Hypothesis testing; ML methods: Classification, Linear and multivariate regression, deep learning, tee based models, pipelines, Grid/random search CV.
 
-- 👯 I’m looking to collaborate on ML projects on healthcare, business and climate.
+- 👯 I’m looking to learn more about financial risk management through ML and statistical/mathematical modelling, quant analytics projects.
 
 - 🤔 I’m looking for help with understanding in-depth the working and performance metrics, infrastructure building and front-end dev.
 
